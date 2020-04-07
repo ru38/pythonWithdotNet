@@ -1,0 +1,5 @@
+D:\WORK\Desktop\example\example\bin\Release\example.dll
+D:\WORK\Desktop\example\example\bin\Release\example.pdb
+D:\WORK\Desktop\example\example\obj\Release\example.csprojResolveAssemblyReference.cache
+D:\WORK\Desktop\example\example\obj\Release\example.dll
+D:\WORK\Desktop\example\example\obj\Release\example.pdb

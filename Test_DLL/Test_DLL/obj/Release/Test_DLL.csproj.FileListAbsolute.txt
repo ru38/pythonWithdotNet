@@ -1,0 +1,10 @@
+D:\WORK\Desktop\Test_DLL\Test_DLL\bin\Release\Test_DLL.dll
+D:\WORK\Desktop\Test_DLL\Test_DLL\bin\Release\Test_DLL.pdb
+D:\WORK\Desktop\Test_DLL\Test_DLL\obj\Release\Test_DLL.csprojResolveAssemblyReference.cache
+D:\WORK\Desktop\Test_DLL\Test_DLL\obj\Release\Test_DLL.dll
+D:\WORK\Desktop\Test_DLL\Test_DLL\obj\Release\Test_DLL.pdb
+D:\WORK\Desktop\PythonDotNet\Test_DLL\Test_DLL\bin\Release\Test_DLL.dll
+D:\WORK\Desktop\PythonDotNet\Test_DLL\Test_DLL\bin\Release\Test_DLL.pdb
+D:\WORK\Desktop\PythonDotNet\Test_DLL\Test_DLL\obj\Release\Test_DLL.csprojResolveAssemblyReference.cache
+D:\WORK\Desktop\PythonDotNet\Test_DLL\Test_DLL\obj\Release\Test_DLL.dll
+D:\WORK\Desktop\PythonDotNet\Test_DLL\Test_DLL\obj\Release\Test_DLL.pdb
